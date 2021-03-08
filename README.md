@@ -2,3 +2,5 @@
 Team White Robotics code from 2021 Season
 
 autoMove opMode - Basic Automtic move opMode should move forward for 4 seeconds then stop
+
+Programiing Resources-https://www.firstinspires.org/resource-library/ftc/technology-information-and-resources
